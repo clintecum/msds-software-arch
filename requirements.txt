@@ -52,7 +52,6 @@ hdbscan @ git+https://github.com/scikit-learn-contrib/hdbscan.git@5bc9412dfc3740
 huggingface-hub==0.17.3
 idna==3.4
 iniconfig==2.0.0
-install==1.3.5
 ipykernel==6.16.0
 ipython==8.5.0
 ipython-genutils==0.2.0
